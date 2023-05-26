@@ -1,0 +1,12 @@
+{
+   "version":"3.5.2",
+   "description":"Multi-platform 2D and 3D game engine",
+   "homepage":"https://godotengine.org/",
+   "license":"MIT",
+   "extension":{
+      "AppImage":{
+         "url":"https://github.com/godotengine/godot/releases/download/3.5.2-stable/Godot_v3.5.2-stable_x11.64.zip",
+         "hash":"e330f98288573825c7471bccc352666ff964ea4be7a07cdac51e84c69be71775d921c3d337c05555c2659298b95c18c5d89887c4c97fd1bfaeab7dff6aa7ff03",
+      }
+   },
+}
